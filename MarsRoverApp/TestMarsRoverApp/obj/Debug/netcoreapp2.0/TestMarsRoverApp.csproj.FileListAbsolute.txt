@@ -1,0 +1,16 @@
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\bin\Debug\netcoreapp2.0\TestMarsRoverApp.deps.json
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\bin\Debug\netcoreapp2.0\TestMarsRoverApp.runtimeconfig.json
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\bin\Debug\netcoreapp2.0\TestMarsRoverApp.runtimeconfig.dev.json
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\bin\Debug\netcoreapp2.0\TestMarsRoverApp.dll
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\bin\Debug\netcoreapp2.0\TestMarsRoverApp.pdb
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\bin\Debug\netcoreapp2.0\MarsRoverApp.dll
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\bin\Debug\netcoreapp2.0\MarsRoverApp.pdb
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\obj\Debug\netcoreapp2.0\TestMarsRoverApp.csprojResolveAssemblyReference.cache
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\obj\Debug\netcoreapp2.0\TestMarsRoverApp.csproj.CoreCompileInputs.cache
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\obj\Debug\netcoreapp2.0\TestMarsRoverApp.AssemblyInfoInputs.cache
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\obj\Debug\netcoreapp2.0\TestMarsRoverApp.AssemblyInfo.cs
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\obj\Debug\netcoreapp2.0\TestMarsRoverApp.dll
+C:\Users\chanz\source\repos\MarsRoverApp\TestMarsRoverApp\obj\Debug\netcoreapp2.0\TestMarsRoverApp.pdb
